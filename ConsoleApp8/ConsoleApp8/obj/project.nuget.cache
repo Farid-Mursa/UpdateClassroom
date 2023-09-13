@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pMMch8ygtyUOHtSezHlNcdyIvQqtu5F5z+4j1r2L6ah5ub7VyLokTCeV78mKlYY+NfNBkRDHyOEGFIcsEtzbfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrfar\\OneDrive\\Desktop\\BankAccount\\ConsoleApp8\\ConsoleApp8\\ConsoleApp8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrfar\\.nuget\\packages\\consoletables\\2.5.0\\consoletables.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
